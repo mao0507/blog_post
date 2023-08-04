@@ -1,7 +1,9 @@
 ---
 title: DBeaver連接時報錯：Public Key Retrieval is not allowed Public Key Retrieval is not allowed
-tag: [db,dbeaver]
-categories: db
+tags: 
+  - dataBase 
+  - dbeaver
+categories: dataBase
 date: 2023/07/25
 update: 2023/07/25
 ---

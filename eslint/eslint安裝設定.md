@@ -1,7 +1,7 @@
 ---
 title: eslint 安裝教學
-tag: eslint
-categories: [eslint,JavaScript]
+tags: eslint
+categories: [eslint ,JavaScript]
 date: 2023/06/06 22:56:00
 update: 2023/06/06 22:56:00
 ---

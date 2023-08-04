@@ -1,6 +1,6 @@
 ---
 title: 安裝NVM教學
-tag: Node
+tags: - NodeJs
 categories: Node
 date: 2023/06/05
 update: 2023/06/05
