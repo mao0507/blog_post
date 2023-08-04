@@ -1,6 +1,7 @@
 ---
 title: console用法
-tags: - JavaScript
+tags: 
+    - JavaScript
 categories: JavaScript
 date: 2023/05/31
 update: 2023/05/31
